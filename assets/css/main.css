@@ -52,7 +52,8 @@ table {
 }
 
 body {
-	-webkit-text-size-adjust: none;
+	-webkit-text-
+	-adjust: none;
 }
 
 mark {
@@ -147,7 +148,7 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 1.75em;
 		line-height: 1.5em;
 	}
 
